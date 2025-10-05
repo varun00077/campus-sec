@@ -1,0 +1,20 @@
+=== Tabular Record ===
+timestamp            source    location    raw
+-------------------  --------  ----------  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-08-27T23:46:00  wifi      LAB_101     {'device_hash': 'DH75af13047587', 'ap_id': 'AP_ENG_3', 'timestamp': '8/27/2025 23:46'}
+2025-08-29T19:55:00  cctv      LIB_ENT     {'frame_id': 'FR602084', 'location_id': 'LIB_ENT', 'timestamp': '2025-08-29 19:55:00', 'face_id': 'F100001', 'date': '2025-08-29', 'hour': 19, 'day': 29, 'month': 8, 'weekday': 'Friday', 'location_encoded': 7, 'face_encoded': 1}
+2025-09-01T02:44:16  swipe     LAB_101     {'card_id': 'C1488', 'location_id': 'LAB_101', 'timestamp': '2025-09-01 02:44:16'}
+2025-09-07T03:06:00  wifi      AUDITORIUM  {'device_hash': 'DH75af13047587', 'ap_id': 'AP_AUD_3', 'timestamp': '9/7/2025 3:06'}
+2025-09-08T12:37:00  wifi      LAB_101     {'device_hash': 'DH75af13047587', 'ap_id': 'AP_LAB_2', 'timestamp': '9/8/2025 12:37'}
+2025-09-18T03:31:10  swipe     LIB_ENT     {'card_id': 'C1488', 'location_id': 'LIB_ENT', 'timestamp': '2025-09-18 03:31:10'}
+2025-09-24T00:00:06  swipe     LAB_101     {'card_id': 'C1488', 'location_id': 'LAB_101', 'timestamp': '2025-09-24 00:00:06'}
+
+=== Narrative Summary ===
+Timeline for student Neha Kumar:
+- At 2025-08-27 23:46, seen at LAB_101 (via wifi).
+- At 2025-08-29 19:55, seen at LIB_ENT (via cctv).
+- At 2025-09-01 02:44, seen at LAB_101 (via swipe).
+- At 2025-09-07 03:06, seen at AUDITORIUM (via wifi).
+- At 2025-09-08 12:37, seen at LAB_101 (via wifi).
+- At 2025-09-18 03:31, seen at LIB_ENT (via swipe).
+- At 2025-09-24 00:00, seen at LAB_101 (via swipe).

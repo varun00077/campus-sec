@@ -1,0 +1,8 @@
+pandas
+numpy
+SQLAlchemy
+python-dateutil
+tabulate
+networkx
+matplotlib
+  # optional, only if you switch to Postgres
